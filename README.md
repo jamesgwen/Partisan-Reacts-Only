@@ -1,4 +1,4 @@
-# Partisan Reacts Only
+# Partisan Reacts Only: An Analysis of Responses to Tweets from Senators
 
 This project was done in the winter of 2018. The goal was to address partisan bias on Twitter by looking at Tweets from US Senators. 
 
