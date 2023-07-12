@@ -13,3 +13,5 @@ the tweet. Our data assessed tweets from US senators in 2017. We found that the 
 retweets to replies and favorites to replies was higher for Democrats compared to Republicans
 and that the difference is greater when comparing more ideologically extreme senators of both
 parties.
+
+Thanks for reading!
